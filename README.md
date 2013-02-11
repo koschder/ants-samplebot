@@ -1,7 +1,6 @@
 ants-samplebot
 ==============
 Sample Bot to get started with coding a bot for the (no longer current) Ants AI Challenge. (http://aichallenge.org)
---------------
 
 ### Setting up
 To get started, import all projects in this repository into an Eclipse installation. 
