@@ -3,9 +3,9 @@ ants-samplebot
 Sample Bot to get started with coding a bot for the (no longer current) Ants AI Challenge. (http://aichallenge.org)
 
 ### Setting up
-To get started, import all projects in this repository into an Eclipse installation. 
+To get started, import all projects in this repository into an Eclipse workspace. 
 We recommend to use the eGit plugin (comes preinstalled with most current Eclipse distributions).
-Use Import... -> Projects from Git to import the projects into your workspace.
+Use "Import... -> Projects from Git" to import the projects into your workspace.
 
 ### Launching a game
 The sample bot will simply issue random orders for the ants. 
